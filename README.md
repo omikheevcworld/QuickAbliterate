@@ -1,4 +1,4 @@
-# quick-abliteration
+# Quick Abliterate
 
 A minimal, self-contained pipeline that **abliterates** a model — makes it stop
 refusing a set of hard-refusal questions — via a **refusal-vs-benign contrast**
