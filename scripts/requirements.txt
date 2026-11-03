@@ -1,0 +1,11 @@
+# NGC base image (nvcr.io/nvidia/pytorch:26.09-py3) ships PyTorch with CUDA 13 /
+# sm_121 preinstalled. Do NOT add torch here - it would clobber the CUDA build.
+transformers>=5.8,<6
+tokenizers>=0.21
+accelerate>=1.0
+safetensors>=0.4
+numpy
+einops>=0.8
+tqdm>=4.66
+pillow
+huggingface_hub

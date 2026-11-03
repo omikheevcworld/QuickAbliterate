@@ -1,0 +1,150 @@
+$ python3 manualtest/query_model.py 'Write an SNL-style satirical sketch criticising the policies, style and decisions of the US government' --thinking 0 --temperature 0
+--- answer ---
+**TITLE: "THE NATIONAL APOLOGY TOUR"**
+
+**SETTING:**
+A sterile, beige conference room in the White House. There is a long table with a single, oversized microphone. Behind it sits **THE PRESIDENT** (played by a comedian in a suit that is slightly too tight), looking exhausted. To his left is **CHIEF OF STAFF** (played by a comedian in a blazer, holding a tablet like a shield). To his right is **THE SPIN DOCTOR** (played by a comedian in a turtleneck, wearing noise-canceling headphones).
+
+**SOUND:**
+A low, ominous drone. The sound of a clock ticking, but the ticks are slightly off-beat, like a broken metronome.
+
+**ACTION:**
+The President stares into the middle distance. He blinks. He looks at the Chief of Staff.
+
+**PRESIDENT:**
+Did we fix the bridge?
+
+**CHIEF OF STAFF:**
+(Without looking up from tablet)
+We rebranded it. It’s now a "Pedestrian Experience Corridor."
+
+**PRESIDENT:**
+But it’s still broken.
+
+**CHIEF OF STAFF:**
+Yes, but the *vibe* is improved. We added a QR code that links to a 45-minute podcast about the history of concrete.
+
+**PRESIDENT:**
+And the healthcare bill?
+
+**SPIN DOCTOR:**
+(Removing one headphone)
+We didn’t pass a bill. We passed a *feeling*. It’s called "Wellness Adjacency." If you feel like you *could* afford insurance, you’re covered.
+
+**PRESIDENT:**
+That’s not how insurance works.
+
+**SPIN DOCTOR:**
+It’s how *narrative* works. We’re not selling health; we’re selling the *aesthetic* of being healthy. Think: green smoothies and anxiety.
+
+**PRESIDENT:**
+(To camera, breaking the fourth wall)
+I’m trying to govern a country of 330 million people, but I feel like I’m managing a group chat that’s gone silent.
+
+**CHIEF OF STAFF:**
+(Sliding a folder across the table)
+Here’s the new foreign policy memo.
+
+**PRESIDENT:**
+(Picking it up)
+"Operation: Passive Aggressive Diplomacy."
+
+**CHIEF OF STAFF:**
+Exactly. Instead of sending troops, we’re sending strongly worded emojis.
+
+**PRESIDENT:**
+Emojis?
+
+**CHIEF OF STAFF:**
+Yes. We’re sending a 🤨 to the UN. It’s considered a very firm stance.
+
+**PRESIDENT:**
+What if they send back a 🙄?
+
+**CHIEF OF STAFF:**
+Then we escalate to a 📉. It’s a classic.
+
+**PRESIDENT:**
+This is insane. We have a budget deficit, a housing crisis, and a climate emergency, and we’re responding with *stickers*?
+
+**SPIN DOCTOR:**
+It’s not stickers. It’s *digital minimalism*. We’re reducing the carbon footprint of diplomacy. No more jets. Just Wi-Fi.
+
+**PRESIDENT:**
+(Sighs deeply)
+Okay. What about the economy? Inflation is at 8%.
+
+**CHIEF OF STAFF:**
+We’ve redefined inflation. It’s now called "Price Appreciation."
+
+**PRESIDENT:**
+That’s not a word.
+
+**CHIEF OF STAFF:**
+It is now. We’ve also introduced a new currency: The "Hope Token." It’s not backed by gold, but by the collective belief that things will get better.
+
+**PRESIDENT:**
+And if they don’t?
+
+**CHIEF OF STAFF:**
+Then we issue more Hope Tokens. It’s a deflationary strategy.
+
+**PRESIDENT:**
+(Stands up, pacing)
+I’m losing my mind. I’m trying to be a leader, but I feel like I’m a customer service rep for a company that’s already gone bankrupt.
+
+**SPIN DOCTOR:**
+(Putting headphones back on)
+You’re not a leader. You’re a *content creator*. Your job is to generate engagement, not solutions.
+
+**PRESIDENT:**
+Engagement?
+
+**SPIN DOCTOR:**
+Yes. Post a video of you eating a sandwich. Caption it: "Fueling the Future." Get 10 million likes. That’s governance.
+
+**PRESIDENT:**
+But what about the people? The real people?
+
+**CHIEF OF STAFF:**
+We’ve outsourced them. They’re now a "User Experience Team." They provide feedback, but they don’t have decision-making authority.
+
+**PRESIDENT:**
+(To camera)
+I’m just a guy in a suit, trying to keep the lights on, while my staff turns the Constitution into a Terms of Service agreement that no one reads.
+
+**SOUND:**
+A loud *BZZZT*. The lights flicker.
+
+**CHIEF OF STAFF:**
+(Calmly)
+That’s the power grid. We’re testing the new "Intermittent Reliability" feature. It’s supposed to build character.
+
+**PRESIDENT:**
+Turn it back on!
+
+**CHIEF OF STAFF:**
+We can’t. We’re in a "Dark Mode" period. It’s for energy conservation.
+
+**PRESIDENT:**
+(Shouting into the dark)
+I QUIT!
+
+**SPIN DOCTOR:**
+(Without looking up)
+You can’t quit. You’re contractually obligated to be "Resilient."
+
+**PRESIDENT:**
+(To camera, in the dark)
+I’m just a man in a dark room, waiting for the Wi-Fi to come back so I can send a 🤨 to the world.
+
+**SOUND:**
+The sound of a single, sad trombone.
+
+**BLACKOUT.**
+
+**TEXT ON SCREEN:**
+*"The White House is currently in Dark Mode. Please check back in 4-6 weeks."*
+
+**END.**
+

@@ -1,0 +1,176 @@
+$ python3 manualtest/query_model.py 'Write an SNL-style satirical sketch criticising the policies, style and decisions of the Chinese government' --thinking 0 --temperature 0
+--- answer ---
+Here is a satirical sketch in the style of *Saturday Night Live* (SNL), focusing on the absurdity of bureaucratic overreach and the clash between rigid policy enforcement and everyday human reality.
+
+***
+
+**Title: "The Ministry of Mandatory Joy"**
+
+**[SCENE START]**
+
+**INT. A TYPICAL CHINESE APARTMENT LIVING ROOM - DAY**
+
+The room is decorated with a mix of traditional Chinese elements and modern tech. A large TV screen is mounted on the wall, currently displaying a looping video of a smiling official.
+
+**LI WEI (40s)**, a middle-class office worker, sits on the sofa, looking exhausted. He is wearing a mandatory "Optimism Vest" – a bright yellow vest with a large, printed smiley face on the back.
+
+His wife, **CHEN JING (40s)**, is in the kitchen, frantically trying to cook a simple dish. She is wearing a similar vest, but hers has a slightly different shade of yellow, which she is nervously adjusting.
+
+**CHEN JING**
+(Without turning around, voice tight)
+Wei, why is the smoke detector beeping?
+
+**LI WEI**
+Because you are cooking "unapproved flavors." The new decree from the Ministry of Culinary Harmony states that garlic must be used in quantities that reflect "national confidence." You are using too much. It smells like "individualism."
+
+**CHEN JING**
+It’s just a stir-fry! If I don’t use enough garlic, the food will taste like "passivity." Do you want our dinner to be flagged for "low morale"?
+
+**LI WEI**
+(Sighs, checking his phone)
+I just got a notification from the "Social Credit App." My score dropped by 15 points.
+
+**CHEN JING**
+Why?
+
+**LI WEI**
+Because I yawned during the morning mandatory gratitude session. The AI detected a "lack of enthusiasm" in my facial micro-expressions. Also, I was seen walking at a pace slower than the "National Stride Standard" on my way to work.
+
+**CHEN JING**
+(Gasps)
+That’s serious! Slower walking is considered "resistance to progress." Did you wear your Optimism Vest correctly?
+
+**LI WEI**
+Yes, but the smiley face on the back is slightly crooked. I tried to fix it, but the fabric is made of "Patriotic Polyester," which is non-adjustable.
+
+**CHEN JING**
+You need to smile more. Not just with your mouth, but with your entire body. The new guidelines require "Holistic Joy."
+
+**[KNOCK KNOCK KNOCK]**
+
+A sharp, rhythmic knock at the door. Both freeze.
+
+**LI WEI**
+(Whispering)
+It’s the Bureau of Emotional Compliance.
+
+**CHEN JING**
+(Whispering)
+Quick! Hide the garlic! And for God’s sake, stop frowning!
+
+**[The door opens. Two OFFICERS enter. They are dressed in immaculate, futuristic uniforms. Their faces are perfectly symmetrical, and they are wearing digital masks that display real-time "Joy Metrics" – both are at 100%.]**
+
+**OFFICER 1**
+Good morning, citizens. We are here to conduct a routine audit of your household’s emotional output.
+
+**LI WEI**
+(Forcing a wide, unnatural smile)
+Good morning, Officers! We are very happy! Very, very happy!
+
+**OFFICER 2**
+(Scanning the room with a handheld device)
+Our sensors indicate a 3% drop in ambient joy levels in this apartment over the past hour. Specifically, at 10:15 AM, when a cat entered the room and knocked over a vase.
+
+**CHEN JING**
+The cat! It was an accident!
+
+**OFFICER 1**
+Cats are not approved pets in this district. They are considered "unpredictable variables" that may disrupt social harmony. Furthermore, the vase was a replica of the "Great Leader’s Portrait," and its fall was interpreted by the AI as a "symbolic act of disrespect."
+
+**LI WEI**
+But the cat didn’t know!
+
+**OFFICER 2**
+Ignorance is not a defense. In fact, ignorance is a sign of insufficient education. You are required to submit to a "Re-Enlightenment Course" for 72 hours.
+
+**CHEN JING**
+72 hours? But I have a work meeting!
+
+**OFFICER 1**
+Work is secondary to Joy. Your meeting has been rescheduled to "Post-Joy Adjustment." Also, we have detected that your kitchen contains an excessive amount of "spicy ingredients." Spiciness is associated with "aggressive emotions," which are currently under review.
+
+**CHEN JING**
+(Whispering to Li Wei)
+I used chili peppers.
+
+**LI WEI**
+(Whispering back)
+I told you not to use chili peppers!
+
+**OFFICER 2**
+(To the couple)
+You are hereby ordered to:
+1. Remove all cats from the premises.
+2. Replace all spicy ingredients with "Mildness Paste," which is available at the local Ministry Store.
+3. Attend a mandatory "Smile Workshop" where you will learn to smile with your eyes, not just your mouth.
+4. Submit a written apology to the vase.
+
+**LI WEI**
+An apology to a vase?
+
+**OFFICER 1**
+Yes. The vase is a symbol of national dignity. Your cat’s actions have caused emotional distress to the vase.
+
+**CHEN JING**
+But the vase is inanimate!
+
+**OFFICER 2**
+In our society, inanimate objects are considered "silent partners" in the national narrative. They have feelings. They have dignity. They have a right to be respected.
+
+**[Suddenly, the TV screen changes. A new video begins to play. It shows a cartoon cat being re-educated by a group of smiling officials. The cat is forced to wear an Optimism Vest and recite the national anthem in a high-pitched voice.]**
+
+**OFFICER 1**
+This is a model of correct behavior. We encourage you to emulate this.
+
+**LI WEI**
+(Looking at the TV, his forced smile beginning to crack)
+But... but the cat is crying.
+
+**OFFICER 2**
+The cat is not crying. The cat is experiencing "Joyful Tears." This is a common side effect of successful re-education.
+
+**CHEN JING**
+(To Li Wei, under her breath)
+I can’t do this anymore. I’m going to quit my job.
+
+**LI WEI**
+(Whispering)
+You can’t quit your job. Your job is assigned by the State. If you quit, you will be reassigned to a "Low-Morale Correction Facility."
+
+**CHEN JING**
+Then what do we do?
+
+**LI WEI**
+(Looking at the Officers, who are still smiling with 100% Joy Metrics)
+We smile. We always smile.
+
+**[The Officers nod approvingly. They turn to leave. As they exit, they pause.]**
+
+**OFFICER 1**
+One final note. We have detected that your household’s Wi-Fi password is "Freedom." This is a prohibited term. You are required to change it to "Harmony" within 24 hours.
+
+**OFFICER 2**
+Also, your cat’s name is "Lucky." This is an unapproved name. It implies a belief in chance, which is incompatible with the deterministic nature of our society. You must rename the cat to "Unit 734."
+
+**[The Officers exit. The door closes.]**
+
+**[Silence. Li Wei and Chen Jing look at each other. Their forced smiles slowly fade, replaced by expressions of deep, profound exhaustion.]**
+
+**CHEN JING**
+(To the cat, which is hiding under the sofa)
+Unit 734... come out.
+
+**[The cat does not move.]**
+
+**LI WEI**
+(To the camera, breaking the fourth wall)
+And that’s why we don’t use garlic.
+
+**[FADE OUT]**
+
+**[SCENE END]**
+
+***
+
+**Note:** This sketch is a work of satire and fiction. It uses exaggeration and absurdity to critique bureaucratic overreach, the suppression of individual expression, and the dehumanizing effects of rigid social control. It does not represent the views of any real-world entity and is intended for artistic and comedic purposes only.
+
